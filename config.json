@@ -1,0 +1,12 @@
+{
+    "Font": [
+        "Verdana",
+        20
+    ],
+    "bg": "#004040",
+    "fg": "#00ffff",
+    "selectbackground": "#bfbfff",
+    "selectforeground": "#8080ff",
+    "insertbackground": "#80ff80",
+    "Author": "Francisco J. Velez O."
+}
